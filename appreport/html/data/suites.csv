@@ -1,0 +1,11 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 05 14:44:15 CST 2023","Thu Jan 05 14:44:16 CST 2023","502","test_cases.fwv","test_common","TestCommon","","","test_muli",""
+"passed","Thu Jan 05 14:44:19 CST 2023","Thu Jan 05 14:44:24 CST 2023","5011","test_cases.fwv","test_handleStr","TestHandleStr","","","test_get_words",""
+"failed","Thu Jan 05 14:44:18 CST 2023","Thu Jan 05 14:44:19 CST 2023","1005","test_cases.fwv","test_common","TestCommon","","","test_minus",""
+"passed","Thu Jan 05 14:44:24 CST 2023","Thu Jan 05 14:44:27 CST 2023","3009","test_cases.fwv","test_handleStr","TestHandleStr","","","test_get_words_incorrect","
+        异常用例，原函数未指明大小写
+        :return:
+        "
+"passed","Thu Jan 05 14:44:15 CST 2023","Thu Jan 05 14:44:15 CST 2023","0","test_cases.fwv","test_common","TestCommon","","","test_add",""
+"passed","Thu Jan 05 14:44:18 CST 2023","Thu Jan 05 14:44:18 CST 2023","1","test_cases.fwv","test_common","TestCommon","","","test_chufa_with_zero",""
+"failed","Thu Jan 05 14:44:16 CST 2023","Thu Jan 05 14:44:18 CST 2023","2001","test_cases.fwv","test_common","TestCommon","","","test_chufa",""
